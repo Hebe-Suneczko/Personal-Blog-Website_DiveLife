@@ -123,6 +123,13 @@
       color: #000000;
   }
   
+  .l-grid-paragraph-post-image {
+      font-family: Open Sans;
+      font-style: normal;
+      font-size: 12px;
+      padding-bottom: 10px;
+  }
+  
   .l-grid-paragraph-p-bold {
       font-weight: 600;
   }

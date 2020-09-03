@@ -1,13 +1,6 @@
-* {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
-}
-
-img {
-    max-width: 100%;
-}
-
+@import "./reset.css";
+@import "./blog_post.css";
+@import "./blog_list.css";
 
 /* large screen size 4fr*/
 
